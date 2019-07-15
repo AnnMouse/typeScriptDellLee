@@ -1,0 +1,28 @@
+{
+  "name": "typeScriptDellLee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnMouse/typeScriptDellLee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnMouse/typeScriptDellLee/issues"
+  },
+  "homepage": "https://github.com/AnnMouse/typeScriptDellLee#readme",
+  "devDependencies": {
+    "@types/lodash": "^4.14.136",
+    "lodash": "^4.17.14",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.6"
+  }
+}
