@@ -19,7 +19,7 @@
   "homepage": "https://github.com/AnnMouse/typeScriptDellLee#readme",
   "devDependencies": {
     "@types/lodash": "^4.14.136",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.19",
     "ts-loader": "^6.0.4",
     "typescript": "^3.5.3",
     "webpack": "^4.35.3",
